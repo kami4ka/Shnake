@@ -10,3 +10,6 @@ No new food will be generated until old not fully eaten and digested. <br>
 The assimilation speed of food depends on the speed of resolving the Monero hashes. <br>
 
 
+## How can I try this incredible thing?
+
+No problem! Here is link: https://kami4ka.github.io/Shnake/index.html
