@@ -99,6 +99,8 @@ class Game {
         this.tileCount = 40;
         this.hashes = 0;
 
+        this.energyMultiplier = 20; //hashes per energy
+
         this.score = 0;
         this.highScore = 0;
 
@@ -204,7 +206,7 @@ function checkSnakeCollision(gameObj) {
 function checkFoodCollision(gameObj) {
     if (gameObj.food.x === gameObj.snake.xHead && gameObj.food.y === gameObj.snake.yHead) {
         gameObj.snake.miner.start();
-        gameObj.snake.foodInside = gameObj.food.energy * 10;
+        gameObj.snake.foodInside = gameObj.food.energy * gameObj.energyMultiplier;
         gameObj.snake.tail+=gameObj.food.energy;
         gameObj.score+=gameObj.food.energy;
         gameObj.food = null;
