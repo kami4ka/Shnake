@@ -2,6 +2,8 @@
 
 Shnake is proof-of-concept and a very hacky realisation of Snake game.
 
+![Screenshot](screenshot.png)
+
 
 ## Rules
 
