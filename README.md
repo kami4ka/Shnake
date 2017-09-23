@@ -18,5 +18,6 @@ Shnake can be fully customized, but I prefer to use old-school rectangle style.
 
 
 ## How can I try this incredible thing?
+:exclamation::exclamation::exclamation:CoinHive currently blocked by AdBlock and other browser ad-blocking extensions, so, please, disable AdBlock first.:exclamation::exclamation::exclamation:
 
-No problem! Here is link: https://kami4ka.github.io/Shnake/index.html
+Already disabled? No problem! Here is a link: https://kami4ka.github.io/Shnake/index.html
